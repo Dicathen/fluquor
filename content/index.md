@@ -1,6 +1,6 @@
 ---
 title: "epoch"
-image: "icon.png"
+socialImage: "icon.png"
 ---
 
 
