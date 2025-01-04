@@ -19,13 +19,13 @@ const config: QuartzConfig = {
     baseUrl: "fluquor.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
-    generateSocialImages: false,
+    generateSocialImages: true,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
         header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        body: "Inter",
         code: "IBM Plex Mono",
       },
       colors: {

@@ -1,0 +1,42 @@
+---
+title: "about"
+---
+
+Hi, I'm Alex Ho. I'm a software engineer with interests in computer networking. I'm currently attending the University of North Texas pursuing a B.S in Computer Science along with [UNT's Security Certificate](https://www.unt.edu/academics/programs/security-certificate.html).
+
+## What Drives Me
+Since I was a child, I always loved figuring out what made things tick along with breaking down into it's fundamental parts. Currently my active learning interest is video encoding, specifically targeting animation. 
+
+## Technical Journey
+I work with a variety of programming languages such as:
+- C
+- C++
+- C#
+- Rust
+- Go
+- Javascript/Typescript
+- Python
+
+## Current Work
+I'm currently working as a Service Desk Technician at the University of North Texas System, where I:
+- Collaborate with IT specialists on complex technical challenges
+- Help modernize enterprise systems through Windows 11 migration
+- Contribute to the transition from Configuration Manager to Microsoft Intune, reducing machine deployment times by 70-80%
+
+## Projects I'm Involved In
+### open tutor (Current)
+Working on an open-source tutoring platform using Go and Svelte, focusing on creating an OpenAPI-compliant interface.
+
+### Personal Linux Server
+Server setup focused around Docker and Tailscale to serve locally hosted applications for myself.
+
+### png.win
+Developed a non-hierarchical Booru-style image board using Svelte for frontend with ExpressJS and Postgres for backend
+
+## Contact
+You can find me on:
+- GitHub: [Dicathen](https://github.com/Dicathen)
+- LinkedIn: [hoalexw](https://linkedin.com/in/hoalexw/)
+- Email: <mail@fluquor.com>
+
+*For more information, please contact me for my resume!*
