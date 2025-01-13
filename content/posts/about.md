@@ -24,13 +24,13 @@ I'm currently working as a Service Desk Technician at the University of North Te
 - Contribute to the transition from Configuration Manager to Microsoft Intune, reducing machine deployment times by 70-80%
 
 ## Projects I'm Involved In
-### open tutor (Current)
+### [[projects/opentutor|open tutor (Current)]]
 Working on an open-source tutoring platform using Go and Svelte, focusing on creating an OpenAPI-compliant interface.
 
 ### Personal Linux Server
 Server setup focused around Docker and Tailscale to serve locally hosted applications for myself.
 
-### png.win
+### [[projects/pngwin|png.win]]
 Developed a non-hierarchical Booru-style image board using Svelte for frontend with ExpressJS and Postgres for backend
 
 ## Contact
