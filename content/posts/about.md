@@ -2,7 +2,7 @@
 title: "about"
 ---
 
-Hi, I'm Alex Ho. I'm a software engineer with interests in computer networking. I graduated the University of North Texas pursuing a B.S in Computer Science along with [UNT's Security Certificate](https://www.unt.edu/academics/programs/security-certificate.html) & [UNT's CSE Undergraduate NSA Cybersecurity Certificate](https://cics.unt.edu/education/ug-nsa-cybersecurity.html)
+Hi, I'm Alex Ho. I'm a software engineer with interests in computer networking. I graduated the University of North Texas with a B.S in Computer Science along with [UNT's Security Certificate](https://www.unt.edu/academics/programs/security-certificate.html) & [UNT's CSE Undergraduate NSA Cybersecurity Certificate](https://cics.unt.edu/education/ug-nsa-cybersecurity.html)
 
 ## What Drives Me
 Since I was a child, I always loved figuring out what made things tick along with breaking down into it's fundamental parts. Currently my active learning interest is video encoding, specifically targeting animation. 
