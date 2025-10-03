@@ -32,7 +32,7 @@ I worked as a Service Desk Technician at the University of North Texas System, w
 Working on an open-source tutoring platform using Go and Svelte, focusing on creating an OpenAPI-compliant interface.
 
 ### Personal Linux Server
-Server setup focused around Docker and Tailscale to serve locally hosted applications for myself.
+Server setup focused around Docker and Tailscale to serve locally hosted applications for myself and friends.
 
 ### [[projects/pngwin|png.win]]
 Developed a non-hierarchical Booru-style image board using Svelte for frontend with ExpressJS and Postgres for backend
