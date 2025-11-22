@@ -28,7 +28,11 @@ I worked as a Service Desk Technician at the University of North Texas System, w
 - Solved a specific TPM attestation error in Microsoft Autopilot involving certain Dell laptops with certain TPM firmware versions.
 
 ## Projects I'm Involved In
-### [[projects/opentutor|open tutor (Current)]]
+
+### [[projects/f1-stats|f1 stats (Current)]]
+This is a pet project currently displaying F1 driver and race information for the 2025 year.
+
+### [[projects/opentutor|open tutor]]
 Working on an open-source tutoring platform using Go and Svelte, focusing on creating an OpenAPI-compliant interface.
 
 ### Personal Linux Server
