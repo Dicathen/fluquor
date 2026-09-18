@@ -20,26 +20,28 @@ configuration:
       body: Source Sans Pro
       code: IBM Plex Mono
     colors:
+      # Rosé Pine Dawn — https://rosepinetheme.com/palette
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#faf4ed" # base
+        lightgray: "#dfdad9" # highlight med
+        gray: "#9893a5" # muted
+        darkgray: "#575279" # text
+        dark: "#575279" # text
+        secondary: "#286983" # pine
+        tertiary: "#907aa9" # iris
+        highlight: "#f4ede8" # highlight low
+        textHighlight: "#ea9d3455" # gold
+      # Rosé Pine
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#191724" # base
+        lightgray: "#403d52" # highlight med
+        gray: "#6e6a86" # muted
+        darkgray: "#e0def4" # text
+        dark: "#e0def4" # text
+        secondary: "#9ccfd8" # foam
+        tertiary: "#c4a7e7" # iris
+        highlight: "#21202e" # highlight low
+        textHighlight: "#f6c17744" # gold
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -54,8 +56,8 @@ plugins:
     enabled: true
     options:
       theme:
-        light: github-light
-        dark: github-dark
+        light: rose-pine-dawn
+        dark: rose-pine
       keepBackground: false
     order: 20
   - source: "@quartz-community/obsidian-flavored-markdown"
